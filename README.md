@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohammad. 👋
-  🌱 I’m currently learning Python. 
+🌱 I’m currently learning Python. 
 <!--
 **mbalasinor/mbalasinor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
